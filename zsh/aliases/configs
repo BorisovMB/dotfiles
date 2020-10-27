@@ -1,0 +1,5 @@
+alias cfq="nvim ~/.config/qtile/config.py"
+alias cfz="nvim ~/.config/zsh/.zshrc"
+alias cfv="nvim ~/.config/nvim/init.vim"
+alias cfza="nvim ~/.config/zathura/zathurarc"
+alias cfvi="nvim ~/.config/vifm/vimrc"

@@ -1,0 +1,2 @@
+alias sc="cd ~/.local/bin"
+alias cf="cd ~/.config"

@@ -1,0 +1,8 @@
+alias v="nvim"
+alias z="zathura"
+alias szsh="source ~/.config/zsh/.zshrc"
+alias vf="~/.local/bin/vifmrun"
+alias tb="taskbook"
+alias tg="telegram-cli"
+alias idea="~/.local/idea/idea-IC-202.6948.69/bin/idea.sh"
+alias clion="~/.local/clion/clion-2020.2.4/bin/clion.sh"

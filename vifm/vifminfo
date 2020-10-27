@@ -1,0 +1,633 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/mksbrsv/
+	..
+1594750498
+'b
+	/home/mksbrsv/bin/
+	..
+1596397335
+'h
+	/home/mksbrsv/
+	..
+1594750498
+'k
+	/home/mksbrsv
+	music
+1596396330
+'m
+	/home/mksbrsv/Pictures
+	external-content.duckduckgo.com.jpg
+1596397216
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home
+	mksbrsv
+1
+d/
+	run
+12
+d/run
+	media
+10
+d/run/media
+	usb
+1
+d/run/media/usb
+	UbuntuDotfiles
+13
+d/run/media/usb/UbuntuDotfiles
+	spectrwm
+8
+d/run/media/usb/UbuntuDotfiles/spectrwm
+	.spectrwm.conf
+1
+d/run/media/usb/UbuntuDotfiles
+	vifm
+9
+d/run/media/usb/UbuntuDotfiles/vifm
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	scripts
+7
+d/run/media/usb/UbuntuDotfiles/scripts
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	scripts
+7
+d/run/media/usb/UbuntuDotfiles/scripts
+	colorscripts
+2
+d/run/media/usb/UbuntuDotfiles
+	scripts
+7
+d/run/media/usb/UbuntuDotfiles/scripts
+	colorscripts
+2
+d/run/media/usb/UbuntuDotfiles
+	nvim
+5
+d/run/media/usb/UbuntuDotfiles/nvim
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	neofetch
+4
+d/run/media/usb/UbuntuDotfiles/neofetch
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	kitty
+3
+d/run/media/usb/UbuntuDotfiles/kitty
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	conky
+2
+d/run/media/usb/UbuntuDotfiles/conky
+	..
+0
+d/run/media/usb/UbuntuDotfiles
+	conky
+2
+d/run/media/usb
+	UbuntuBooks
+13
+d/run/media/usb/UbuntuBooks
+	Books
+1
+d/run/media/usb/UbuntuBooks/Books
+	..
+0
+d/run/media/usb/UbuntuBooks
+	Books
+1
+d/run/media/usb
+	UbuntuBooks
+13
+d/run/media/usb/UbuntuBooks
+	Books
+1
+d/run/media/usb
+	me
+17
+d/run/media/usb/me
+	..
+0
+d/run/media/usb
+	me
+17
+d/run/media/usb/me
+	master.txt
+7
+d/run/media
+	..
+0
+d/run
+	media
+10
+d/
+	home
+4
+d/home
+	mksbrsv
+1
+d/home/mksbrsv
+	.local
+7
+d/home
+	mksbrsv
+1
+d/home/mksbrsv
+	documents
+17
+d/home/mksbrsv/documents
+	books
+1
+d/home/mksbrsv/documents/books
+	C++
+2
+d/home/mksbrsv/documents/books/C++
+	C++ на примерах.pdf
+1
+d/home/mksbrsv/documents/books
+	LaTeX2.pdf
+7
+d/home/mksbrsv/documents
+	notes
+2
+d/home/mksbrsv
+	Pictures
+16
+d/home/mksbrsv/Pictures
+	night_city_street_city_lights_134353_1920x1080.jpg
+6
+d/home/mksbrsv
+	documents
+18
+d/home/mksbrsv/documents
+	books
+1
+d/home/mksbrsv/documents/books
+	LaTeX2.pdf
+7
+d/home/mksbrsv
+	hey
+20
+d/home/mksbrsv/hey
+	..
+0
+d/home/mksbrsv
+	test
+21
+d/home/mksbrsv/test
+	..
+0
+d/home/mksbrsv
+	go
+6
+d/home/mksbrsv/go
+	src
+1
+d/home/mksbrsv/go/src
+	github.com
+1
+d/home/mksbrsv/go/src/github.com
+	neoclide
+1
+d/home/mksbrsv/go/src/github.com/neoclide
+	coc.nvim
+1
+d/home/mksbrsv/go/src/github.com/neoclide/coc.nvim
+	..
+0
+d/home/mksbrsv/go/src/github.com/neoclide
+	coc.nvim
+1
+d/home/mksbrsv/go/src/github.com
+	neoclide
+1
+d/home/mksbrsv/go/src
+	github.com
+1
+d/home/mksbrsv/go
+	src
+1
+d/home/mksbrsv
+	Pictures
+3
+d/home/mksbrsv/Pictures
+	night_city_street_city_lights_134353_1920x1080.jpg
+6
+d/home/mksbrsv
+	pictures
+4
+d/home/mksbrsv/pictures
+	Screenshots
+1
+d/home/mksbrsv
+	pictures
+4
+d/home/mksbrsv/pictures
+	Screenshots
+1
+d/home/mksbrsv
+	pictures
+4
+d/home
+	mksbrsv
+1
+d/home/mksbrsv
+	.config
+5
+d/home/mksbrsv/.config
+	nvim
+39
+d/home/mksbrsv/.config/nvim
+	plugged
+5
+d/home/mksbrsv/.config/nvim/plugged
+	dracula
+4
+d/home/mksbrsv/.config/nvim/plugged/dracula
+	colors
+5
+d/home/mksbrsv/.config/nvim/plugged/dracula/colors
+	dracula.vim
+1
+d/home/mksbrsv/.config/nvim/plugged/dracula
+	colors
+5
+d/home/mksbrsv/.config/nvim/plugged
+	fzf
+5
+d/home/mksbrsv/.config/nvim
+	snippets
+7
+d/home/mksbrsv/.config
+	nitrogen
+37
+d/home/mksbrsv
+	documents
+7
+d/home/mksbrsv/documents
+	books
+1
+d/home/mksbrsv/documents/books
+	Алгоритмы_Справочник_С_примерами_на_C,_C++,_Java_и_Python.pdf
+11
+d/home/mksbrsv/documents
+	My passwords.kdbx
+3
+d/home/mksbrsv
+	downloads
+19
+d/home/mksbrsv/downloads
+	3. Linux. Уровень 2.zip
+4
+d/home/mksbrsv
+	.config
+6
+d/home/mksbrsv/.config
+	tmux
+51
+d/home/mksbrsv/.config/tmux
+	tmux.conf
+2
+d/home/mksbrsv/.config
+	tmux
+51
+d/home/mksbrsv
+	.config
+6
+d/home
+	mksbrsv
+1
+d/home/mksbrsv
+	downloads
+20
+d/home/mksbrsv/downloads
+	[slivysklad.com][Geekbrains] Базы данных.zip
+11
+d/home/mksbrsv
+	pictures
+22
+d/home/mksbrsv/pictures
+	wallpapers
+2
+d/home/mksbrsv/pictures/wallpapers
+	bigsur.jpg
+1
+d
+
+# Right window history (oldest to newest):
+D/home/mksbrsv
+	.config
+4
+D/home/mksbrsv/.config
+	..
+0
+D/home/mksbrsv
+	.config
+4
+D/home/mksbrsv/.config
+	nivm
+29
+D/home/mksbrsv/.config/nivm
+	autoload
+1
+D/home/mksbrsv/.config/nivm/autoload
+	..
+0
+D/home/mksbrsv/.config/nivm
+	autoload
+1
+D/home/mksbrsv/.config
+	nvim
+31
+D/home/mksbrsv/.config/nvim
+	autoload
+1
+D/home/mksbrsv/.config/nvim/autoload
+	..
+0
+D/home/mksbrsv/.config/nvim
+	autoload
+1
+D/home/mksbrsv/.config
+	conky
+10
+D/home/mksbrsv/.config/conky
+	.conkyrc
+14
+D/home/mksbrsv/.config
+	nomacs
+30
+D/home/mksbrsv/.config/nomacs
+	Image Lounge.conf
+1
+D/home/mksbrsv/.config
+	sublime-text-3
+45
+D/home/mksbrsv/.config/sublime-text-3
+	..
+0
+D/home/mksbrsv/.config
+	catfish
+9
+D/home/mksbrsv/.config/catfish
+	..
+0
+D/home/mksbrsv/.config
+	qtile
+39
+D/home/mksbrsv/.config/qtile
+	icons
+3
+D/home/mksbrsv/.config/qtile/icons
+	layout-xmonadtall.png
+1
+D/home/mksbrsv/.config/qtile
+	icons
+3
+D/home/mksbrsv/.config
+	qtile
+39
+D/home/mksbrsv
+	.local
+6
+D/home/mksbrsv/.local
+	share
+1
+D/home/mksbrsv/.local/share
+	..
+0
+D/home/mksbrsv/.local
+	share
+1
+D/home/mksbrsv/.local/share
+	..
+0
+D/home/mksbrsv/.local
+	bin
+1
+D/home/mksbrsv/.local/bin
+	..
+0
+D/home/mksbrsv/.local
+	share
+2
+D/home/mksbrsv/.local/share
+	..
+0
+D/home/mksbrsv/.local
+	bin
+1
+D/home/mksbrsv/.local/bin
+	..
+0
+D/home/mksbrsv/.local
+	bin
+1
+D/home/mksbrsv/.local/bin
+	..
+0
+D/home/mksbrsv/.local
+	bin
+1
+D/home/mksbrsv
+	.local
+6
+D/home
+	mksbrsv
+1
+D/home/mksbrsv
+	.config
+4
+D/home/mksbrsv/.config
+	alacritty
+3
+D/home/mksbrsv/.config/alacritty
+	alacritty.yml
+1
+D/home/mksbrsv/.config
+	alacritty
+3
+D/home/mksbrsv
+	.config
+4
+D/home/mksbrsv/.config
+	zsh
+21
+D/home/mksbrsv
+	.pki
+8
+D/home
+	mksbrsv
+1
+D/
+	home
+4
+D/home
+	mksbrsv
+1
+D/home/mksbrsv
+	documents
+16
+D/home/mksbrsv/documents
+	Notes
+1
+D/home/mksbrsv
+	documents
+16
+D/home/mksbrsv/documents
+	books
+2
+D/home/mksbrsv/documents/books
+	LaTeX2.pdf
+7
+D/home/mksbrsv/documents
+	books
+2
+D/home/mksbrsv
+	documents
+16
+D/home/mksbrsv/documents
+	notes
+2
+D/home/mksbrsv
+	documents
+17
+D/home
+	mksbrsv
+1
+D/home/mksbrsv
+	Downloads
+14
+D/home/mksbrsv/Downloads
+	..
+0
+D/home/mksbrsv
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:mkdir conky
+:mkdir icons
+:mkdir bin
+:mkdir zsh
+:mkcd
+:mkcd hey
+:mk hey
+:!vifmrun
+:mkdir wallpapers
+:q
+
+# Search history (oldest to newest):
+/qtile
+/alacr
+/.con
+/.co
+/nvi
+/tmux
+
+# Prompt history (oldest to newest):
+pgowo
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/mksbrsv/.local/share/vifm/Trash/000_nivm
+	/home/mksbrsv/.config/nivm
+t/home/mksbrsv/.local/share/vifm/Trash/000_8181560082_202006_01dd915744a940c3b66dd8b3661eb2f1.pdf
+	/home/mksbrsv/Downloads/8181560082_202006_01dd915744a940c3b66dd8b3661eb2f1.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_kvit288407.pdf
+	/home/mksbrsv/Downloads/kvit288407.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_untitled.png
+	/home/mksbrsv/Downloads/untitled.png
+t/home/mksbrsv/.local/share/vifm/Trash/000_untitled.svg
+	/home/mksbrsv/Downloads/untitled.svg
+t/home/mksbrsv/.local/share/vifm/Trash/000_hey
+	/home/mksbrsv/hey
+t/home/mksbrsv/.local/share/vifm/Trash/000_a.out
+	/home/mksbrsv/a.out
+t/home/mksbrsv/.local/share/vifm/Trash/000_test.cpp
+	/home/mksbrsv/test.cpp
+t/home/mksbrsv/.local/share/vifm/Trash/000_vifmimg
+	/home/mksbrsv/vifmimg
+t/home/mksbrsv/.local/share/vifm/Trash/000_testp
+	/home/mksbrsv/testp
+t/home/mksbrsv/.local/share/vifm/Trash/000_test
+	/home/mksbrsv/test
+t/home/mksbrsv/.local/share/vifm/Trash/000_v8_9028_17a02c.pdf
+	/home/mksbrsv/downloads/v8_9028_17a02c.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_2-kurs.xlsx
+	/home/mksbrsv/downloads/2-kurs.xlsx
+t/home/mksbrsv/.local/share/vifm/Trash/000_800066447.pdf
+	/home/mksbrsv/downloads/800066447.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_8181560082_202007_57eea6b393a74358b4425e067a090995.pdf
+	/home/mksbrsv/downloads/8181560082_202007_57eea6b393a74358b4425e067a090995.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_ULD_v1.00.35.tar.gz
+	/home/mksbrsv/downloads/ULD_v1.00.35.tar.gz
+t/home/mksbrsv/.local/share/vifm/Trash/000_Unconfirmed 675876.crdownload
+	/home/mksbrsv/downloads/Unconfirmed 675876.crdownload
+t/home/mksbrsv/.local/share/vifm/Trash/000_Unconfirmed 682486.crdownload
+	/home/mksbrsv/downloads/Unconfirmed 682486.crdownload
+t/home/mksbrsv/.local/share/vifm/Trash/000_avgust.pdf
+	/home/mksbrsv/downloads/avgust.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_avgust1.pdf
+	/home/mksbrsv/downloads/avgust1.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_doom64_abstin.exe
+	/home/mksbrsv/downloads/doom64_abstin.exe
+t/home/mksbrsv/.local/share/vifm/Trash/000_silhouette_starry_sky_pillars_134464_1920x1080.jpg
+	/home/mksbrsv/downloads/silhouette_starry_sky_pillars_134464_1920x1080.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_city-wal.jpg
+	/home/mksbrsv/pictures/city-wal.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_external-content.duckduckgo.com.jpg
+	/home/mksbrsv/pictures/external-content.duckduckgo.com.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_gazavgust.pdf
+	/home/mksbrsv/pictures/gazavgust.pdf
+t/home/mksbrsv/.local/share/vifm/Trash/000_me.jpg
+	/home/mksbrsv/pictures/me.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_night_city_street_city_lights_134353_1920x1080.jpg
+	/home/mksbrsv/pictures/night_city_street_city_lights_134353_1920x1080.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_silhouette_starry_sky_pillars_134464_1920x1080 (1).jpg
+	/home/mksbrsv/pictures/silhouette_starry_sky_pillars_134464_1920x1080 (1).jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_skyscrapers_panorama_city_lights_126505_1920x1080.jpg
+	/home/mksbrsv/pictures/skyscrapers_panorama_city_lights_126505_1920x1080.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_skyscrapers_panorama_megalopolis_123648_1920x1080.jpg
+	/home/mksbrsv/pictures/skyscrapers_panorama_megalopolis_123648_1920x1080.jpg
+t/home/mksbrsv/.local/share/vifm/Trash/000_wal.jpg
+	/home/mksbrsv/pictures/wal.jpg
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
